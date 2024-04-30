@@ -3,7 +3,7 @@ public class Persona {
     private String nombre;
     private String apellido;
     private int edad;
-    double altura;
+    private double altura;
 
     public String getNombre() {
         return nombre;
